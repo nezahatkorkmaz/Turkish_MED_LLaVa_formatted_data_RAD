@@ -1,6 +1,6 @@
 # 📌 Türkçe Medikal LLaVA Veri Seti
 
-Bu veri seti, **RAD-VQA** veri setinin **LLaVA formatına** uygun hale getirilmiş Türkçe versiyonudur. **Helsinki-NLP çeviri modeli** kullanılarak Türkçeye çevrilmiş ve gerekli ID eşleştirmeleri yapılarak LLaVA formatına uyarlanmıştır.
+Bu veri seti, **RAD-VQA** veri setinin **LLaVA formatına** uygun hale getirilmiş Türkçe versiyonudur. **Helsinki-NLP çeviri modeli** kullanılarak Türkçeye çevrilmiş olup; normalizasyon, veri ön işleme ve gerekli ID eşleştirmeleri yapılarak LLaVA formatına uyarlanmıştır.
 
 ## 📂 Veri Seti İçeriği
 - **📁 `images/`**: Medikal görüntülerin bulunduğu klasör.
